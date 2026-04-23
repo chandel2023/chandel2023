@@ -1,6 +1,6 @@
 ![logo](https://github.com/chandel2023/chandel2023/blob/main/WhatsApp%20Image%202026-04-23%20at%201.49.36%20PM.jpeg)
 <h1 align="center">Hi, I'm Mayank Kumar Singh</h1>
-<h3 align="center">Aspiring Software Developer | GATE Qualified | Strong in Core CS | Problem Solver</h3>
+<h3 align="center">Aspiring Software Developer | Problem Solver</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="right" alt="coding" width="400">
 
 - 🔭 I’m currently working on **HealthBridge – Appointment Booking Full Stack Web Application**
@@ -12,8 +12,6 @@
 - 🤝 I’m looking for help with **Backend Development and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandel2023](https://github.com/chandel2023)
-
-- 📝 I regularly write articles on [Currently not writing blogs, but planning to start soon](Currently not writing blogs, but planning to start soon)
 
 - 💬 Ask me about **Web Development, Python, Machine Learning, Data Structures**
 
