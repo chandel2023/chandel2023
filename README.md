@@ -1,4 +1,4 @@
-![logo](https://github.com/chandel2023/Mayank2014/blob/main/WhatsApp%20Image%202026-04-23%20at%201.49.36%20PM.jpeg)
+![logo](https://github.com/chandel2023/chandel2023/blob/main/WhatsApp%20Image%202026-04-23%20at%201.49.36%20PM.jpeg)
 <h1 align="center">Hi, I'm Mayank Kumar Singh</h1>
 <h3 align="center">Aspiring Software Developer | GATE Qualified | Strong in Core CS | Problem Solver</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="right" alt="coding" width="400">
