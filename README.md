@@ -10,9 +10,9 @@
 
 - I’m looking for help with **Backend Development and System Design**
 
-- All of my projects are available at [https://github.com/chandel2023](https://github.com/chandel2023)
-
 - How to reach me **mayanksinghchandel2021@gmail.com**
+
+- All of my projects are available at [https://github.com/chandel2023](https://github.com/chandel2023)
 
 - Know about my experiences [https://www.linkedin.com/in/mayanksinghchandel108](https://www.linkedin.com/in/mayanksinghchandel108)
 
