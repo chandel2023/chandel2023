@@ -2,23 +2,23 @@
 <h1 align="center">Hi, I'm Mayank Kumar Singh</h1>
 <h3 align="center">Aspiring Software Developer | Problem Solver</h3>
 
-- 🔭 I’m currently working on **HealthBridge – Appointment Booking Full Stack Web Application**
+- I’m currently working on **HealthBridge – Appointment Booking Full Stack Web Application**
 
-- 🌱 I’m currently learning **Node.js, Express, Data Structures and Algorithms**
+- I’m currently learning **Node.js, Express, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Web Development and Full Stack Projects**
+- I’m looking to collaborate on **Web Development and Full Stack Projects**
 
-- 🤝 I’m looking for help with **Backend Development and System Design**
+- I’m looking for help with **Backend Development and System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chandel2023](https://github.com/chandel2023)
+- All of my projects are available at [https://github.com/chandel2023](https://github.com/chandel2023)
 
-- 💬 Ask me about **Web Development, Python, Machine Learning, Data Structures**
+- How to reach me **mayanksinghchandel2021@gmail.com**
 
-- 📫 How to reach me **mayanksinghchandel2021@gmail.com**
+- Know about my experiences [https://www.linkedin.com/in/mayanksinghchandel108](https://www.linkedin.com/in/mayanksinghchandel108)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayanksinghchandel108](https://www.linkedin.com/in/mayanksinghchandel108)
+- Ask me about **Web Development, Python, Machine Learning, Data Structures**
 
-- ⚡ Fun fact **I enjoy solving complex problems and turning ideas into real-world applications**
+- Fun fact **I enjoy solving complex problems and turning ideas into real-world applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
